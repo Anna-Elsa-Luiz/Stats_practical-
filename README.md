@@ -1,1 +1,1 @@
-# Stats_practical-
+# Notes practiced during practical implementation of Statistics 
