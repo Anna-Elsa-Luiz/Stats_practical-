@@ -1,1 +1,1 @@
-# Notes practiced during practical implementation of Statistics 
+Notes practiced during practical implementation of Statistics 
